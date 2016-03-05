@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="wifi" type="id"/>
+    <item name="mobile" type="id" />
+    <item name="bluetooth" type="id" />
+    <item name="flash" type="id" />
+    <item name="mobile_on" type="id" />
+    <item name="bluetooth_on" type="id" />
+    <item name="flash_on" type="id" />
+    <item name="wifi_on" type="id" />
+</resources>
